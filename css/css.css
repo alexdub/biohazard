@@ -1,0 +1,58 @@
+
+
+.bio {
+    position: absolute;
+    top: 40px;
+    left: 0px;
+    z-index: 5;
+}
+
+.bio:hover {
+    transform: scale(1.5); 
+    z-index: 20;
+
+  }
+
+
+.manwoman {
+    position: absolute;
+    top: 60px;
+    left: 260px;
+    z-index: 10;
+}
+
+.manwoman:hover {
+    transform: scale(1.5);
+    z-index: 20;
+ 
+  }
+
+.nosmoking {
+    position: absolute;
+    top: 70px;
+    left: 100px;
+    z-index: 15;
+}
+
+.nosmoking:hover {
+    transform: scale(1.5);
+    z-index: 20;
+ 
+  }
+
+.yin {
+    position: absolute;
+    top: 170px;
+    left: 100px;
+    z-index: 7;
+}
+
+.yin:hover {
+    transform: scale(1.5); 
+    z-index: 20;
+}
+
+.wraper {
+    position: relative;
+    
+}
